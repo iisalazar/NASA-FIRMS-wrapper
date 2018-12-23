@@ -9,8 +9,8 @@ A python wrapper for the API of NASA'S FIRMS
    	```
 3. Run the **app.py**
   * ```shell 
-  ./app.py
-  ```
+  	./app.py
+  	```
 
 ### Note: 
 
