@@ -23,3 +23,4 @@ A python wrapper for the API of NASA'S FIRMS
    * The filename you want for the output
 
 * The image generated will be in .png format
+* The image generated is located in the **"root"/images** directory
